@@ -99,4 +99,4 @@ lib/**/*
 
 .github/workflows/local-test.yml
 
-dist
+#dist
